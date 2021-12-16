@@ -1,0 +1,19 @@
+body{}
+
+#content{
+	height: 500px;
+	width: 500px;
+	float: left;
+	padding-left: 150px;
+	border: solid;
+	overflow: auto;
+}
+#content1{
+	float: left;
+	padding-right: 150px;
+	border: solid;
+	overflow: auto;
+}
+#style{
+	border: yellow;
+}
